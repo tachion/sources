@@ -1,0 +1,9 @@
+sunxi-fexc
+bin2fex
+fex2bin
+sunxi-bootinfo
+sunxi-fel
+sunxi-pio
+sunxi-nand-part
+*.o
+*.swp
